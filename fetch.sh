@@ -1,0 +1,1 @@
+bunx sitefetch $1 -o $2 --concurrency 10
